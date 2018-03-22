@@ -10,7 +10,7 @@ $(document).ready(function(){
   const files = {
     '': {'welcome.txt': "I see you have found my computer. <br>You won't find much here, but you can use the command 'cd' to search for other directories.<br> to move into a directory use the same command on the directory like 'cd->(name)'.<br> To move back to the previous directory do 'cd->../'"},
     'Jeff': {'Jeff.info': `
-      Jeff isn't my real name. I'm stupid enough to reveal that information to you. <br>
+      Jeff isn't my real name. I'm not stupid enough to reveal that information to you. <br>
       What I can reveal is that I was born in California.  Where is not important. <br>
       Considering you've found my computer though, I imagine you want to know more. <br>
       Can't blame you. Who wouldn't want to know more about "the best hacker in the world." <br>
